@@ -3,9 +3,9 @@
 The PhonePe Pulse Data Visualization project provides a platform to explore and understand the trends and patterns within PhonePe Pulse data. This data visualization tool allows users to interact with the data and gain insights that can be useful for decision-making, market analysis, and more.
 
 ## Project Requirments:
-Python 3.11
-Pandas
-Streamlit
++ Python 3.11
++ Pandas
++Streamlit
 Plotly
 Matplotlib
 Geopandas
