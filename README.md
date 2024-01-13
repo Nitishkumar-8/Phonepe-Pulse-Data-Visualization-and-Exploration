@@ -2,24 +2,27 @@
 ## Introduction:
 The PhonePe Pulse Data Visualization project provides a platform to explore and understand the trends and patterns within PhonePe Pulse data. This data visualization tool allows users to interact with the data and gain insights that can be useful for decision-making, market analysis, and more.
 
+# CLoning Phonepe pulse data
++ Clone the PhonePe Pulse GitHub repository using Git Bash. __ [repository](https://github.com/PhonePe/pulse#readme)
+  
 ## Project Requirments:
 + Python 3.11
 + Pandas
-+Streamlit
-Plotly
-Matplotlib
-Geopandas
-Requests
-psycopg2
++ Streamlit
++ Plotly
++ Matplotlib
++ Geopandas
++ Requests
++ psycopg2
 
 ## Packages used for the projects:
-import json
-import streamlit as st
-import pandas as pd
-import requests
-import psycopg2
-import plotly.express as px
-import plotly.graph_objects as go
++ import json
++ import streamlit as st
++ import pandas as pd
++ import requests
++ import psycopg2
++ import plotly.express as px
++ import plotly.graph_objects as go
 
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
 Data Extraction: Scripting to clone the repository and collect data.
