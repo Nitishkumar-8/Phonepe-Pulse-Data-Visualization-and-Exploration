@@ -1,5 +1,5 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration
-##Introduction:
+## Introduction:
 The PhonePe Pulse Data Visualization project provides a platform to explore and understand the trends and patterns within PhonePe Pulse data. This data visualization tool allows users to interact with the data and gain insights that can be useful for decision-making, market analysis, and more.
 ##Project Requirments:
 Python 3.11
