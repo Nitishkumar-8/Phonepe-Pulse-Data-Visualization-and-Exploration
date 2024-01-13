@@ -2,7 +2,7 @@
 ## Introduction:
 The PhonePe Pulse Data Visualization project provides a platform to explore and understand the trends and patterns within PhonePe Pulse data. This data visualization tool allows users to interact with the data and gain insights that can be useful for decision-making, market analysis, and more.
 
-# CLoning Phonepe pulse data
+# Cloning Phonepe pulse data
 + Clone the PhonePe Pulse GitHub repository using Git Bash. __ [repository](https://github.com/PhonePe/pulse#readme)
   
 ## Project Requirments:
